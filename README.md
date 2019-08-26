@@ -6,6 +6,6 @@ Sample project to setup aws lambda in java 8 with Gradle 2.1
 
 ```gradle init```
 
-* **Setup eclipse project: **
+* **Setup eclipse project:**
 
 ```gradle eclipse```
