@@ -3,3 +3,10 @@
 # build dir
 /build
 bin
+
+# eclipse project file
+.project
+.classpath
+.settings/
+.gradle/
+.build/
