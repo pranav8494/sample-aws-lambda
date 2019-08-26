@@ -1,0 +1,13 @@
+apply plugin: 'java'
+apply plugin: 'eclipse'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile (
+        'com.amazonaws:aws-lambda-java-core:1.2.0',
+        'com.amazonaws:aws-lambda-java-events:2.2.6'
+    )
+}
